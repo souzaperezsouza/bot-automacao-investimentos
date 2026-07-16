@@ -50,9 +50,9 @@ PARTE 2 - CONTA E PROJETO NO RENDER
    variaveis de ambiente deste servico.
 
 
-============================================
+
 PARTE 3 - CRIAR O BANCO DE DADOS (POSTGRES) NO RENDER
-============================================
+
 
 1. No dashboard do Render, clique em "New +" > "PostgreSQL".
 2. De um nome (ex: bot-investimentos-db).
